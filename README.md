@@ -1,5 +1,9 @@
 ### Hi there, it Aswin here 👋
 
+I’m a people person. I love meeting new people and learning about their lives and their backgrounds. 
+I can almost always find common ground with strangers, and I like making people feel comfortable in my presence. 
+I find these skills is especially helpful when kicking off projects with new clients.
+
 - 🔭 I’m currently working on Ust Global
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on projects
